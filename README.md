@@ -1,1 +1,1 @@
-Semantic-search-and-Summarization-App
+PDF Summarization Using Gemini llm
