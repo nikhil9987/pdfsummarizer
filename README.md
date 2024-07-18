@@ -1,1 +1,1 @@
-###Semantic-search-and-Summarization-App
+Semantic-search-and-Summarization-App
